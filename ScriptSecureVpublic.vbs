@@ -2,9 +2,9 @@
 #$interface = "1.0"
 
 '#####################################################################
-'####### Script automatización procesos en router Teldat   		######
+'####### Script automatización procesos en router Teldat   	######
 '####### by Eduardo de la Fuente (e.delafuente@outlook.com) 	######
-'####### 23-02-2021												######
+'####### 23-02-2021						######
 '#####################################################################
 
 

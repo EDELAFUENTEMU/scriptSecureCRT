@@ -1,10 +1,10 @@
 # Script certificados en router Teldat
 
-Script para automatizar la generación y actualización de certificados en router Teldad [generar key y csr, y subir/actualizar cert] a través de un host bastion (equipo de salto). Además se puede obtener ciertos parámetros del equipo: caducidad certificados, files, etc.
+Script para automatizar la generación y actualización de certificados en router Teldad a través de un host bastion (equipo de salto). Además se puede obtener ciertos parámetros del equipo: caducidad certificados, files, etc.
 
 Permite trabajar de manera unitaria o por lotes (lista de routers). Genera un report al finalizar con el resultado y errores de las operaciones efectuadas. 
 
-Permite crear nuevas funcionalidades usando la misma base de una manera agil.
+Permite crear nuevas funcionalidades usando la misma base de una manera ágil e intuitiva a consta de código duplicado =$.
 
 ## Requisitos
 
@@ -31,7 +31,7 @@ RT_central 10.1.1.1
 RT_sucursal2 123.123.123.2
 RT_sucursal3 123.123.123.3
 ```
-2. Lanzar el script desde SecureCRT > Script > ScriptSecureV3.vbs
+2. Lanzar el script desde SecureCRT > Script > ScriptSecureVpublic.vb
 3. Indicar directorio de trabajo
 4. Seleccionar acción a realizar 
 5. Comprobar errores generados en el report de operación.

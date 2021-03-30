@@ -1,4 +1,4 @@
-# Script certificados en router Teldat
+# Script Router Teldat
 
 Script para automatizar la generación y actualización de certificados en router Teldad a través de un host bastion (equipo de salto). Además se puede obtener ciertos parámetros del equipo: caducidad certificados, files, etc.
 
